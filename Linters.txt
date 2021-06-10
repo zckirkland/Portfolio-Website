@@ -1,0 +1,4 @@
+List of Linters used in project:
+1. linter-stylelint 4.5.1
+2. tota11y.min
+3. stylelint.config
